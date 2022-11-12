@@ -2,7 +2,7 @@
 
 ThreeJs animation exercise inspired by the animation published in [Dots 20.0](https://www.pinterest.es/pin/514606694936703581/).
 
-![geomtric animation 4](https://github.com/ivaneffable/geometric-animation-4/blob/master/geometric-animation-4.gif)
+![geomtric animation 4](https://github.com/ivaneffable/geometric-animation-4/blob/main/geometric-animation-4.gif)
 
 ## Installation
 
